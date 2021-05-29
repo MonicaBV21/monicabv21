@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Mónica Barahona
 
-Soy Mónica Barahona, economista e interesada en métodos de analítica de datos para brindar soluciones a los desafios de la realidad actual.
+I'm a colombian economist at UT. I like economics and data science.
 
-- 🔭 Actualmente, soy profesora del programa de economía de una universidad colombiana
-- 🌱 Me encuentro aprendiendo sobre economía del comportamiento y analítica de datos
-- 👯 Me gustaría colaborar en investigación basada en analítica de datos
+- 🔭 Professor of economics at colombian university
+- 🌱 I'm learning about behavioral economics and big data
+- 📧 Ask me about anything: monica_barahona@outlook.com
